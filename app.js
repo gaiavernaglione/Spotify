@@ -1,5 +1,5 @@
-const clientId = 'your_spotify_client_id';
-const clientSecret = 'your_spotify_client_secret';
+const clientId = '92d2bdeaeac04edd8898d561e88d2f21';
+const clientSecret = 'fded0dd13901494cb30cf27b155d0333';
 let accessToken = '';
 
 // Function to get the access token
